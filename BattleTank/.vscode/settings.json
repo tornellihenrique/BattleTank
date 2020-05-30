@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"F:/Projetos/BattleTank/BattleTank/.vs": true,
+		"F:/Projetos/BattleTank/BattleTank/.vscode": true,
+		"F:/Projetos/BattleTank/BattleTank/Content": true,
+		"F:/Projetos/BattleTank/BattleTank/Intermediate": true,
+		"F:/Projetos/BattleTank/BattleTank/Saved": true
+	},
+	"C_Cpp.errorSquiggles": "Enabled"
+}
