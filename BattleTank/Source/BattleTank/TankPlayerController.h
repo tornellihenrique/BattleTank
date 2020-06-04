@@ -17,13 +17,13 @@ class BATTLETANK_API ATankPlayerController : public APlayerController
     GENERATED_BODY()
 
 private:
-    UPROPERTY(EditAnywhere)
+    UPROPERTY(EditDefaultsOnly)
     float CrossHairXLocation = 0.5f;
 
-    UPROPERTY(EditAnywhere)
+    UPROPERTY(EditDefaultsOnly)
     float CrossHairYLocation = 0.3333f;
 
-    UPROPERTY(EditAnywhere)
+    UPROPERTY(EditDefaultsOnly)
     float LineTraceRange = 1000000.f;
 
     void AimTowardsCrosshair();
